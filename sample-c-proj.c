@@ -4,7 +4,7 @@ int main()
 {
    int a, b, c, d;
 
-   # Randon comment 
+   // Random comment 
    printf("Enter three numbers to add\n");
    scanf("%d%d",&a,&b);
  
