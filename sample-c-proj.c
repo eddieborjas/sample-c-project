@@ -2,7 +2,7 @@
  
 int main()
 {
-   int a, b, c, d, e;
+   //int a, b, c, d, e;
 
    // Random comment asdasda
    printf("Enter four numbers to add\n");
