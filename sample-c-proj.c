@@ -2,15 +2,15 @@
  
 int main()
 {
-   int a, b, c, d;
+   int a, b, c, d, e;
 
    // Random comment asdasda
-   printf("Enter three numbers to add\n");
-   scanf("%d%d",&a,&b);
+   printf("Enter four numbers to add\n");
+   scanf("%d%d%d%d",&a,&b,&c,&d);
  
-   d = a + b + c;
+   e = a + b + c + d;
  
-   printf("Sum of entered numbers = %d\n",d);
+   printf("Sum of entered numbers = %d\n",e);
 
    // Another comment 
    return 0;
